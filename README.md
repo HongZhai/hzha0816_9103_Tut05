@@ -7,10 +7,11 @@ This is my first local change to the repo!
 ## Heading 2
 ### Heading 3
 #### Heading 4
-**Bold Text** or _Bold Text_
+**Bold Text** or __Bold Text__
+
 
 [link text](https://www.google.com)
 
 ![An image](https://placekitten.com/200/300)
 
-![An image](assets/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+![An image of Mona Lisa](assets/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
